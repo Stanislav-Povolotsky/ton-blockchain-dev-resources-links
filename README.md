@@ -48,6 +48,12 @@ This API is designed to provide users with a simple and streamlined experience, 
 Opentonapi is an open source version of [TonAPI](http://tonapi.io/) and is 100% compatible with it.  
 Opentonapi simplifies development of TON-based applications and provides an API centered around high-level concepts like Jettons, NFTs and so on keeping a way to access low-level details.
 
+## Debugging
+
+### Debug any transaction (execute step by step)
+
+https://retracer.ton.org/
+
 ## Libraries for different programming languages
 
 ### JavaScript/TypeScript libraries
